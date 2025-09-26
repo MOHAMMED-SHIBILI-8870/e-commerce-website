@@ -1,0 +1,134 @@
+body{
+  margin-left: 0px;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 32px;
+
+  background:   rgba(238, 178, 0, 0.15);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(238, 178, 0, 0.15);
+
+  position: sticky;
+  top: 10px;
+  margin: 10px 20px;
+  z-index: 1000;
+  font-family: "Poppins", sans-serif;
+}
+.brand {
+  font-size: 1.9rem;
+  font-weight: 700;
+  background: linear-gradient(90deg, rgb(244, 188, 5), rgb(255, 123, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.brand:hover {
+  transform: scale(1.08);
+}
+
+
+.outerHead {
+  display: flex;
+  gap: 30px;
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+.headLines {
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-size: 1rem;
+  font-weight: 500;
+  transition: color 0.3s;
+    background: linear-gradient(90deg, rgb(244, 188, 5), rgb(255, 123, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.headLines::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  width: 0%;
+  height: 2px;
+  background: rgb(244, 188, 5);
+  transition: width 0.3s ease;
+}
+
+.headLines:hover {
+  color: rgb(244, 188, 5);
+}
+
+.headLines:hover::after {
+  width: 100%;
+}
+
+.auth-section {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.login {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: color 0.3s, transform 0.3s;
+}
+
+.login:hover {
+  color: rgb(244, 188, 5);
+  transform: translateY(-2px);
+}
+.logout-btn {
+  padding: 8px 16px;
+  background: linear-gradient(90deg, rgb(244, 188, 5), rgb(255, 123, 0));
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.logout-btn:hover {
+  background: linear-gradient(90deg, rgb(255, 123, 0), rgb(244, 188, 5));
+  transform: translateY(-3px);
+  box-shadow: 0px 4px 12px rgba(244, 188, 5, 0.4);
+}
+
+.welcome {
+  color: rgb(22, 21, 21);
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px 24px;
+  }
+
+  .outerHead {
+    flex-wrap: wrap;
+    gap: 18px;
+    margin-top: 10px;
+  }
+
+  .auth-section {
+    margin-top: 12px;
+  }
+}

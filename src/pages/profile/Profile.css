@@ -1,0 +1,103 @@
+
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+  background-color: rgb(248, 248, 248);
+  min-height: 100vh;
+}
+
+.profile-card {
+  background-color: rgb(255, 255, 255);
+  padding: 25px 30px;
+  border-radius: 15px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 500px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.profile-card h1 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: rgb(51, 51, 51);
+}
+
+.profile-card h2 {
+  font-size: 1.2rem;
+  margin: 5px 0;
+  color: rgb(85, 85, 85);
+}
+
+.order-card {
+  background-color: rgb(255, 255, 255);
+  padding: 20px 25px;
+  border-radius: 15px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 800px;
+  margin-bottom: 20px;
+}
+
+.order-card h2 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+  color: rgb(51, 51, 51);
+}
+
+.order-card p {
+  margin: 5px 0;
+  color: rgb(85, 85, 85);
+}
+
+.order-items {
+  margin-top: 15px;
+}
+
+.order-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgb(238, 238, 238);
+}
+
+.item-image {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-right: 15px;
+}
+
+.item-info p {
+  margin: 2px 0;
+  font-size: 0.95rem;
+  color: rgb(68, 68, 68);
+}
+
+.no-orders,
+.not-logged {
+  font-size: 1.2rem;
+  color: rgb(136, 136, 136);
+  margin-top: 20px;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .order-item {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .item-image {
+    margin-bottom: 10px;
+  }
+
+  .item-info {
+    text-align: center;
+  }
+}

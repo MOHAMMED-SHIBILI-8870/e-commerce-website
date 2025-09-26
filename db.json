@@ -1,0 +1,1275 @@
+{
+  "AllProducts": [
+    {
+      "id": "1",
+      "name": "Combo Bracelet",
+      "price": "₹199",
+      "img": "http://localhost:5000/Bracelet/ComboBracelet.webp",
+      "description": "A stylish combo of modern and traditional designs, perfect for casual wear.",
+      "category": "bracelet"
+    },
+    {
+      "id": "2",
+      "name": "Luxury Golden Bracelet",
+      "price": "₹599",
+      "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+      "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+      "category": "bracelet",
+      "status": true
+    },
+    {
+      "id": "3",
+      "name": "Star Bracelet",
+      "price": "₹299",
+      "img": "http://localhost:5000/Bracelet/StarBracelet.webp",
+      "description": "Trendy bracelet with star charms, designed for daily use and gifting.",
+      "category": "bracelet"
+    },
+    {
+      "id": "4",
+      "name": "Tangled Golden Bracelet",
+      "price": "₹399",
+      "img": "http://localhost:5000/Bracelet/TangledInGoldenBrecelet.webp",
+      "description": "Unique tangled golden design for a bold fashion statement.",
+      "category": "bracelet"
+    },
+    {
+      "id": "5",
+      "name": "White Bracelet",
+      "price": "₹219",
+      "img": "http://localhost:5000/Bracelet/WhiteandRoseBracelet.jpg",
+      "description": "Minimalistic white bracelet with a soft and elegant finish.",
+      "category": "bracelet"
+    },
+    {
+      "id": "6",
+      "name": "Classy Hoop Earrings",
+      "price": "₹249",
+      "img": "http://localhost:5000/HoopEarring/KOREAN-CLASSY-HOOP-EARRINGS-1.jpg",
+      "description": "Elegant and classy hoop earrings, perfect for both formal and casual wear.",
+      "category": "Hoop Earrings"
+    },
+    {
+      "id": "7",
+      "name": "Sahiba Pearl Hoop - Black",
+      "price": "₹329",
+      "img": "http://localhost:5000/HoopEarring/SahibaPearlHoopEarrings-black.webp",
+      "description": "Stylish black pearl hoop earrings for a bold fashion statement.",
+      "category": "Hoop Earrings"
+    },
+    {
+      "id": "8",
+      "name": "Sahiba Pearl Hoop - Green",
+      "price": "₹329",
+      "img": "http://localhost:5000/HoopEarring/SahibaPearlHoopEarrings-green.jpg",
+      "description": "Trendy green pearl hoop earrings, adding a pop of color to your outfit.",
+      "category": "Hoop Earrings"
+    },
+    {
+      "id": "9",
+      "name": "Sahiba Pearl Hoop - Peach",
+      "price": "₹329",
+      "img": "http://localhost:5000/HoopEarring/SahibaPearlHoopEarrings-peach.webp",
+      "description": "Soft peach-colored pearl hoop earrings for a feminine and elegant look.",
+      "category": "Hoop Earrings"
+    },
+    {
+      "id": "10",
+      "name": "Sahiba Pearl Hoop - Peach Pink",
+      "price": "₹329",
+      "img": "http://localhost:5000/HoopEarring/SahibaPearlHoopEarrings-peachypink.jpg",
+      "description": "Charming peach-pink pearl hoop earrings designed for casual and festive wear.",
+      "category": "Hoop Earrings"
+    },
+    {
+      "id": "11",
+      "name": "Korean Crystal Flower-Earrings",
+      "price": "₹319",
+      "img": "http://localhost:5000/Korean/KoreanClassyEarring-Golden.webp",
+      "description": "Elegant crystal flower earrings that add a sparkling touch to any outfit.",
+      "category": "Korean Earrings"
+    },
+    {
+      "id": "12",
+      "name": "Korean Classy Golden-Earrings",
+      "price": "₹299",
+      "img": "http://localhost:5000/Korean/KoreanCrystelFlowerDropEarrings.webp",
+      "description": "Classy golden earrings for a sophisticated and stylish look.",
+      "category": "Korean Earrings"
+    },
+    {
+      "id": "13",
+      "name": "Korean Pearl Flower-Earrings",
+      "price": "₹279",
+      "img": "http://localhost:5000/Korean/KoreanCuteFlowerPearlEarrings.jpg",
+      "description": "Delicate pearl flower earrings that bring out timeless elegance.",
+      "category": "Korean Earrings",
+      "status": true
+    },
+    {
+      "id": "14",
+      "name": "Korean Stone & Flower-Earrings",
+      "price": "₹289",
+      "img": "http://localhost:5000/Korean/KoreandifferenttypeStoneEarrings.webp",
+      "description": "Stylish stone and flower combination earrings for modern fashion.",
+      "category": "Korean Earrings"
+    },
+    {
+      "id": "15",
+      "name": "Korean Leaf Classic-Earrings",
+      "price": "₹269",
+      "img": "http://localhost:5000/Korean/KoreanLeaflassicearrings.jpg",
+      "description": "Chic leaf design earrings for a graceful and natural charm.",
+      "category": "Korean Earrings"
+    },
+    {
+      "id": "16",
+      "name": "Korean Minimal Stud-Earrings",
+      "price": "₹199",
+      "img": "http://localhost:5000/Korean/KoreanMinimalStudEarrings.jpg",
+      "description": "Simple and minimal studs perfect for daily wear.",
+      "category": "Korean Earrings"
+    },
+    {
+      "id": "17",
+      "name": "Korean Butterfly-Earrings",
+      "price": "₹249",
+      "img": "http://localhost:5000/Korean/PinterestCuteBowearrings.webp",
+      "description": "Cute butterfly earrings that bring a playful and youthful vibe.",
+      "category": "Korean Earrings"
+    },
+    {
+      "id": "18",
+      "name": "Dream Moon Necklace",
+      "price": "₹349",
+      "img": "http://localhost:5000/Necklace/DreamMoonNecklace.jpg",
+      "description": "Elegant moon-inspired necklace with a dreamy charm, perfect for evening wear.",
+      "category": "Necklaces"
+    },
+    {
+      "id": "19",
+      "name": "Dream Moon Star Necklace",
+      "price": "₹359",
+      "img": "http://localhost:5000/Necklace/DreamMoonstarNecklace.jpg",
+      "description": "Beautiful moon and star combination necklace that adds celestial elegance.",
+      "category": "Necklaces"
+    },
+    {
+      "id": "20",
+      "name": "Love Affair Necklace",
+      "price": "₹379",
+      "img": "http://localhost:5000/Necklace/LoveAffairNecklace.webp",
+      "description": "Romantic necklace designed with love-inspired detailing, ideal for gifting.",
+      "category": "Necklaces"
+    },
+    {
+      "id": "21",
+      "name": "Megan Necklace",
+      "price": "₹329",
+      "img": "http://localhost:5000/Necklace/MeganNecklace.jpg",
+      "description": "Trendy Megan-style necklace for a modern and chic look.",
+      "category": "Necklaces"
+    },
+    {
+      "id": "22",
+      "name": "Minimal Floral Necklace",
+      "price": "₹289",
+      "img": "http://localhost:5000/Necklace/MinimalFloralNecklace.webp",
+      "description": "Delicate floral-themed necklace with a minimalistic design.",
+      "category": "Necklaces"
+    },
+    {
+      "id": "23",
+      "name": "Old Soul Gold Necklace",
+      "price": "₹399",
+      "img": "http://localhost:5000/Necklace/OldSoulGoldnecklace.jpg",
+      "description": "Classic golden necklace for a bold and timeless appeal.",
+      "category": "Necklaces"
+    },
+    {
+      "id": "24",
+      "name": "Tiny Heart Necklace",
+      "price": "₹259",
+      "img": "http://localhost:5000/Necklace/TinyHeartNecklace.jpg",
+      "description": "Adorable tiny heart necklace that expresses subtle love and elegance.",
+      "category": "Necklaces"
+    },
+    {
+      "id": "25",
+      "name": "Box Ring",
+      "price": "₹499",
+      "img": "http://localhost:5000/Ring/BoxRing.webp",
+      "description": "A stylish box-shaped ring that adds a bold statement to your fashion.",
+      "category": "Rings"
+    },
+    {
+      "id": "26",
+      "name": "ButterFly Ring",
+      "price": "₹699",
+      "img": "http://localhost:5000/Ring/ButterFlyRing.jpg",
+      "description": "Beautiful butterfly design ring that symbolizes elegance and grace.",
+      "category": "Rings"
+    },
+    {
+      "id": "27",
+      "name": "Elsa Minimal Ring",
+      "price": "₹599",
+      "img": "http://localhost:5000/Ring/ElsaminimalRing.jpg",
+      "description": "Minimalistic Elsa-inspired ring with a clean and modern look.",
+      "category": "Rings"
+    },
+    {
+      "id": "28",
+      "name": "Four Stone Ring",
+      "price": "₹799",
+      "img": "http://localhost:5000/Ring/FourStoneRing.webp",
+      "description": "Elegant ring with four sparkling stones for a classy finish.",
+      "category": "Rings"
+    },
+    {
+      "id": "29",
+      "name": "Spring Time Ring",
+      "price": "₹650",
+      "img": "http://localhost:5000/Ring/SpringTimeRing.jpg",
+      "description": "Floral-inspired springtime ring to brighten up your look.",
+      "category": "Rings"
+    },
+    {
+      "id": "30",
+      "name": "Soulmate Heart Ring",
+      "price": "₹899",
+      "img": "http://localhost:5000/Ring/SoulmateHeartRing.jpg",
+      "description": "Romantic heart-shaped ring, a symbol of love and togetherness.",
+      "category": "Rings"
+    },
+    {
+      "id": "31",
+      "name": "Statement Ring",
+      "price": "₹750",
+      "img": "http://localhost:5000/Ring/StatementRing.jpg",
+      "description": "Bold and fashionable statement ring for a standout appearance.",
+      "category": "Rings"
+    },
+    {
+      "id": "32",
+      "name": "Two Bowel Ring",
+      "price": "₹999",
+      "img": "http://localhost:5000/Ring/TwobowelRing.webp",
+      "description": "Unique double-banded ring with a modern and stylish design.",
+      "category": "Rings"
+    }
+  ],
+  "Users": [
+    {
+      "id": "e903",
+      "name": "shbli",
+      "email": "s84896329@gmail.com",
+      "password": "12345678",
+      "role": "user",
+      "status": "active",
+      "cart": [],
+      "orders": [],
+      "Wishlist": []
+    },
+    {
+      "id": "390c",
+      "name": "aswin",
+      "email": "ceaswin146@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "status": "active",
+      "cart": [
+        "2",
+        "2"
+      ],
+      "orders": [
+        {
+          "id": 1758130917580,
+          "items": [
+            {
+              "id": "2",
+              "name": "Luxury Golden Bracelet",
+              "price": "₹599",
+              "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+              "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+              "category": "bracelet"
+            }
+          ],
+          "total": 599,
+          "address": {
+            "name": "MOHAMMED SHIBILI",
+            "phone": "08870785537",
+            "street": "whdgwecgwh",
+            "city": "o3ewfk43",
+            "pincode": "231213"
+          },
+          "status": "Order Placed",
+          "date": "9/17/2025, 11:11:57 PM"
+        },
+        {
+          "id": 1758130975961,
+          "items": [
+            {
+              "id": "2",
+              "name": "Luxury Golden Bracelet",
+              "price": "₹599",
+              "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+              "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+              "category": "bracelet"
+            }
+          ],
+          "total": 599,
+          "address": {
+            "name": "MOHAMMED SHIBILI",
+            "phone": "08870785537",
+            "street": "whdgwecgwh",
+            "city": "o3ewfk43",
+            "pincode": "231213"
+          },
+          "status": "Order Placed",
+          "date": "9/17/2025, 11:12:55 PM"
+        },
+        {
+          "id": 1758159412768,
+          "items": [
+            {
+              "id": "26",
+              "name": "ButterFly Ring",
+              "price": "₹699",
+              "img": "http://localhost:5000/Ring/ButterFlyRing.jpg",
+              "description": "Beautiful butterfly design ring that symbolizes elegance and grace.",
+              "category": "Rings"
+            }
+          ],
+          "total": 699,
+          "address": {
+            "name": "MOHAMMED SHIBILI",
+            "phone": "08870785537",
+            "street": "whdgwecgwh",
+            "city": "o3ewfk43",
+            "pincode": "231213"
+          },
+          "status": "Order Placed",
+          "date": "9/18/2025, 7:06:52 AM"
+        },
+        {
+          "id": 1758159434141,
+          "items": [],
+          "total": 0,
+          "address": {
+            "name": "MOHAMMED SHIBILI",
+            "phone": "08870785537",
+            "street": "whdgwecgwh",
+            "city": "o3ewfk43",
+            "pincode": "231213"
+          },
+          "status": "Order Placed",
+          "date": "9/18/2025, 7:07:14 AM"
+        }
+      ],
+      "Wishlist": []
+    },
+    {
+      "id": "0370",
+      "name": "sufi",
+      "email": "sufi@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "status": "active",
+      "cart": [],
+      "orders": [
+        {
+          "id": 1758739564837,
+          "items": [
+            {
+              "id": "10",
+              "name": "Sahiba Pearl Hoop - Peach Pink",
+              "price": "₹329",
+              "img": "http://localhost:5000/HoopEarring/SahibaPearlHoopEarrings-peachypink.jpg",
+              "description": "Charming peach-pink pearl hoop earrings designed for casual and festive wear.",
+              "category": "Hoop Earrings"
+            },
+            {
+              "id": "11",
+              "name": "Korean Crystal Flower-Earrings",
+              "price": "₹319",
+              "img": "http://localhost:5000/Korean/KoreanClassyEarring-Golden.webp",
+              "description": "Elegant crystal flower earrings that add a sparkling touch to any outfit.",
+              "category": "Korean Earrings"
+            }
+          ],
+          "total": 648,
+          "address": {
+            "name": "sufi",
+            "phone": "0987654321",
+            "street": "sumathi valav",
+            "city": "chittoor",
+            "pincode": "643219"
+          },
+          "status": "Order Placed",
+          "date": "9/25/2025, 12:16:04 AM"
+        },
+        {
+          "id": 1758767269605,
+          "items": [
+            {
+              "id": "2",
+              "name": "Luxury Golden Bracelet",
+              "price": "₹599",
+              "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+              "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+              "category": "bracelet",
+              "status": true
+            }
+          ],
+          "total": 599,
+          "address": {
+            "name": "sufi",
+            "phone": "987654321",
+            "street": "sumathi valav",
+            "city": "chittoor",
+            "pincode": "643219"
+          },
+          "status": "Order Placed",
+          "date": "9/25/2025, 7:57:49 AM"
+        },
+        {
+          "id": 1758784167484,
+          "items": [
+            {
+              "id": "2",
+              "name": "Luxury Golden Bracelet",
+              "price": "₹599",
+              "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+              "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+              "category": "bracelet",
+              "status": true
+            }
+          ],
+          "total": 599,
+          "address": {
+            "name": "arsha ",
+            "phone": "987654321",
+            "street": "sumathi valav",
+            "city": "chittoor",
+            "pincode": "643219"
+          },
+          "status": "Order Placed",
+          "date": "9/25/2025, 12:39:27 PM"
+        }
+      ],
+      "Wishlist": []
+    },
+    {
+      "id": "m8cb",
+      "name": "aaa",
+      "email": "abcd@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "status": "active",
+      "cart": [],
+      "orders": [
+        {
+          "id": 1758606017993,
+          "items": [],
+          "total": 0,
+          "address": {
+            "name": "adc",
+            "phone": "0987654321",
+            "street": "thadathil",
+            "city": "mullambara",
+            "pincode": "645541"
+          },
+          "status": "Order Placed",
+          "date": "9/23/2025, 11:10:17 AM"
+        },
+        {
+          "id": 1758611931168,
+          "items": [
+            {
+              "id": "3",
+              "name": "Star Bracelet",
+              "price": "₹299",
+              "img": "http://localhost:5000/Bracelet/StarBracelet.webp",
+              "description": "Trendy bracelet with star charms, designed for daily use and gifting.",
+              "category": "bracelet"
+            },
+            {
+              "id": "16",
+              "name": "Korean Minimal Stud-Earrings",
+              "price": "₹199",
+              "img": "http://localhost:5000/Korean/KoreanMinimalStudEarrings.jpg",
+              "description": "Simple and minimal studs perfect for daily wear.",
+              "category": "Korean Earrings"
+            }
+          ],
+          "total": 498,
+          "address": {
+            "name": "aaa",
+            "phone": "88709",
+            "street": "thadathilpramb",
+            "city": "thurakkal",
+            "pincode": "212321"
+          },
+          "status": "Order Placed",
+          "date": "9/23/2025, 12:48:51 PM"
+        }
+      ],
+      "Wishlist": []
+    },
+    {
+      "id": "68lq",
+      "name": "shibili",
+      "email": "shibili@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "status": "block",
+      "cart": [
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "3",
+        "2",
+        "2",
+        "2"
+      ],
+      "orders": [
+        {
+          "id": 1758187700092,
+          "items": [
+            {
+              "id": "3",
+              "name": "Star Bracelet",
+              "price": "₹299",
+              "img": "http://localhost:5000/Bracelet/StarBracelet.webp",
+              "description": "Trendy bracelet with star charms, designed for daily use and gifting.",
+              "category": "bracelet"
+            },
+            {
+              "id": "26",
+              "name": "ButterFly Ring",
+              "price": "₹699",
+              "img": "http://localhost:5000/Ring/ButterFlyRing.jpg",
+              "description": "Beautiful butterfly design ring that symbolizes elegance and grace.",
+              "category": "Rings"
+            }
+          ],
+          "total": 998,
+          "address": {
+            "name": "shibili",
+            "phone": "987654321",
+            "street": "thadathilpramb",
+            "city": "thurakkal",
+            "pincode": "642641"
+          },
+          "status": "Order Placed",
+          "date": "9/18/2025, 2:58:20 PM"
+        }
+      ],
+      "Wishlist": []
+    },
+    {
+      "id": "pw2w",
+      "name": "najeer",
+      "email": "najeer@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "status": "block",
+      "cart": [],
+      "orders": [
+        {
+          "id": 1758281921267,
+          "items": [
+            {
+              "id": "2",
+              "name": "Luxury Golden Bracelet",
+              "price": "₹599",
+              "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+              "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+              "category": "bracelet"
+            }
+          ],
+          "total": 599,
+          "address": {
+            "name": "sdfs",
+            "phone": "sdf",
+            "street": "sdfds",
+            "city": "dsfsdfffffffffff",
+            "pincode": "fsdffffffffff"
+          },
+          "status": "Order Placed",
+          "date": "9/19/2025, 5:08:41 PM"
+        },
+        {
+          "id": 1758345993532,
+          "items": [
+            {
+              "id": "2",
+              "name": "Luxury Golden Bracelet",
+              "price": "₹599",
+              "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+              "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+              "category": "bracelet"
+            },
+            {
+              "id": "3",
+              "name": "Star Bracelet",
+              "price": "₹299",
+              "img": "http://localhost:5000/Bracelet/StarBracelet.webp",
+              "description": "Trendy bracelet with star charms, designed for daily use and gifting.",
+              "category": "bracelet"
+            }
+          ],
+          "total": 898,
+          "address": {
+            "name": "aaa",
+            "phone": "88709",
+            "street": "thadathil",
+            "city": "thurakkal",
+            "pincode": "212321"
+          },
+          "status": "Order Placed",
+          "date": "9/20/2025, 10:56:33 AM"
+        },
+        {
+          "id": 1758628376016,
+          "items": [
+            {
+              "id": "2",
+              "name": "Luxury Golden Bracelet",
+              "price": "₹599",
+              "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+              "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+              "category": "bracelet"
+            },
+            {
+              "id": "14",
+              "name": "Korean Stone & Flower-Earrings",
+              "price": "₹289",
+              "img": "http://localhost:5000/Korean/KoreandifferenttypeStoneEarrings.webp",
+              "description": "Stylish stone and flower combination earrings for modern fashion.",
+              "category": "Korean Earrings"
+            },
+            {
+              "id": "29",
+              "name": "Spring Time Ring",
+              "price": "₹650",
+              "img": "http://localhost:5000/Ring/SpringTimeRing.jpg",
+              "description": "Floral-inspired springtime ring to brighten up your look.",
+              "category": "Rings"
+            }
+          ],
+          "total": 1538,
+          "address": {
+            "name": "kevin",
+            "phone": "987654321`",
+            "street": "pattambi",
+            "city": "pattambi",
+            "pincode": "653421"
+          },
+          "status": "Order Placed",
+          "date": "9/23/2025, 5:22:56 PM"
+        }
+      ],
+      "Wishlist": []
+    },
+    {
+      "id": "1758545820319",
+      "name": "kevin",
+      "email": "kevin@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "status": "block",
+      "cart": [],
+      "orders": [],
+      "Wishlist": []
+    },
+    {
+      "id": "1758704964387",
+      "name": "jthin",
+      "email": "jithin@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "status": "block",
+      "cart": [
+        "1"
+      ],
+      "orders": [],
+      "Wishlist": []
+    },
+    {
+      "id": "1758707063318",
+      "name": "arsha",
+      "email": "arsha@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "status": "active",
+      "cart": [],
+      "orders": [
+        {
+          "id": 1758737626103,
+          "items": [
+            {
+              "id": "2",
+              "name": "Luxury Golden Bracelet",
+              "price": "₹599",
+              "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+              "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+              "category": "bracelet",
+              "status": true
+            },
+            {
+              "id": "10",
+              "name": "Sahiba Pearl Hoop - Peach Pink",
+              "price": "₹329",
+              "img": "http://localhost:5000/HoopEarring/SahibaPearlHoopEarrings-peachypink.jpg",
+              "description": "Charming peach-pink pearl hoop earrings designed for casual and festive wear.",
+              "category": "Hoop Earrings"
+            },
+            {
+              "id": "18",
+              "name": "Dream Moon Necklace",
+              "price": "₹349",
+              "img": "http://localhost:5000/Necklace/DreamMoonNecklace.jpg",
+              "description": "Elegant moon-inspired necklace with a dreamy charm, perfect for evening wear.",
+              "category": "Necklaces"
+            }
+          ],
+          "total": 1277,
+          "address": {
+            "name": "arsha Bhai",
+            "phone": "876543219",
+            "street": "sumathi valav",
+            "city": "chittoor",
+            "pincode": "643219"
+          },
+          "status": "Order Placed",
+          "date": "9/24/2025, 11:43:46 PM"
+        },
+        {
+          "id": 1758777081291,
+          "items": [
+            {
+              "id": "2",
+              "name": "Luxury Golden Bracelet",
+              "price": "₹599",
+              "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+              "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+              "category": "bracelet",
+              "status": true
+            }
+          ],
+          "total": 599,
+          "address": {
+            "name": "arsha ",
+            "phone": "876543219",
+            "street": "sumathi valav",
+            "city": "chittoor",
+            "pincode": "643219"
+          },
+          "status": "Order Placed",
+          "date": "9/25/2025, 10:41:21 AM"
+        }
+      ],
+      "Wishlist": []
+    },
+    {
+      "id": "1758777283236",
+      "name": "ashin",
+      "email": "ashin@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "status": "active",
+      "cart": [],
+      "orders": [
+        {
+          "id": 1758777359159,
+          "items": [
+            {
+              "id": "1",
+              "name": "Combo Bracelet",
+              "price": "₹199",
+              "img": "http://localhost:5000/Bracelet/ComboBracelet.webp",
+              "description": "A stylish combo of modern and traditional designs, perfect for casual wear.",
+              "category": "bracelet"
+            }
+          ],
+          "total": 199,
+          "address": {
+            "name": "Ashin ",
+            "phone": "987654321",
+            "street": "mullambara",
+            "city": "thurakkal",
+            "pincode": "643121"
+          },
+          "status": "Order Placed",
+          "date": "9/25/2025, 10:45:59 AM"
+        }
+      ],
+      "Wishlist": []
+    }
+  ],
+  "AllOrders": [
+    {
+      "id": "1be0",
+      "orders": {
+        "id": 1758611931168,
+        "items": [
+          {
+            "id": "3",
+            "name": "Star Bracelet",
+            "price": "₹299",
+            "img": "http://localhost:5000/Bracelet/StarBracelet.webp",
+            "description": "Trendy bracelet with star charms, designed for daily use and gifting.",
+            "category": "bracelet"
+          },
+          {
+            "id": "16",
+            "name": "Korean Minimal Stud-Earrings",
+            "price": "₹199",
+            "img": "http://localhost:5000/Korean/KoreanMinimalStudEarrings.jpg",
+            "description": "Simple and minimal studs perfect for daily wear.",
+            "category": "Korean Earrings"
+          }
+        ],
+        "total": 498,
+        "address": {
+          "name": "aaa",
+          "phone": "88709",
+          "street": "thadathilpramb",
+          "city": "thurakkal",
+          "pincode": "212321"
+        },
+        "status": "Order Placed",
+        "date": "9/23/2025, 12:48:51 PM"
+      }
+    },
+    {
+      "id": "8d2b",
+      "orders": {
+        "id": 1758612455959,
+        "items": [
+          {
+            "id": "4",
+            "name": "Tangled Golden Bracelet",
+            "price": "₹399",
+            "img": "http://localhost:5000/Bracelet/TangledInGoldenBrecelet.webp",
+            "description": "Unique tangled golden design for a bold fashion statement.",
+            "category": "bracelet"
+          }
+        ],
+        "total": 399,
+        "address": {
+          "name": "najeer",
+          "phone": "987654321",
+          "street": "pattambi",
+          "city": "palakad",
+          "pincode": "642641"
+        },
+        "status": "Order Placed",
+        "date": "9/23/2025, 12:57:35 PM"
+      }
+    },
+    {
+      "id": "1b2a",
+      "orders": {
+        "id": 1758627903940,
+        "items": [
+          {
+            "id": "2",
+            "name": "Luxury Golden Bracelet",
+            "price": "₹599",
+            "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+            "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+            "category": "bracelet"
+          },
+          {
+            "id": "4",
+            "name": "Tangled Golden Bracelet",
+            "price": "₹399",
+            "img": "http://localhost:5000/Bracelet/TangledInGoldenBrecelet.webp",
+            "description": "Unique tangled golden design for a bold fashion statement.",
+            "category": "bracelet"
+          }
+        ],
+        "total": 998,
+        "address": {
+          "name": "najeer",
+          "phone": "987654321",
+          "street": "pa",
+          "city": "palakad",
+          "pincode": "642641"
+        },
+        "status": "Order Placed",
+        "date": "9/23/2025, 5:15:03 PM"
+      }
+    },
+    {
+      "id": "dcc1",
+      "orders": {
+        "id": 1758627932277,
+        "items": [
+          {
+            "id": "2",
+            "name": "Luxury Golden Bracelet",
+            "price": "₹599",
+            "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+            "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+            "category": "bracelet"
+          },
+          {
+            "id": "4",
+            "name": "Tangled Golden Bracelet",
+            "price": "₹399",
+            "img": "http://localhost:5000/Bracelet/TangledInGoldenBrecelet.webp",
+            "description": "Unique tangled golden design for a bold fashion statement.",
+            "category": "bracelet"
+          },
+          {
+            "id": "26",
+            "name": "ButterFly Ring",
+            "price": "₹699",
+            "img": "http://localhost:5000/Ring/ButterFlyRing.jpg",
+            "description": "Beautiful butterfly design ring that symbolizes elegance and grace.",
+            "category": "Rings"
+          }
+        ],
+        "total": 1697,
+        "address": {
+          "name": "kevin",
+          "phone": "987654321`",
+          "street": "pattambi",
+          "city": "dsfsdfffffffffff",
+          "pincode": "653421"
+        },
+        "status": "Order Placed",
+        "date": "9/23/2025, 5:15:32 PM"
+      }
+    },
+    {
+      "id": "5f30",
+      "orders": {
+        "id": 1758628376016,
+        "items": [
+          {
+            "id": "2",
+            "name": "Luxury Golden Bracelet",
+            "price": "₹599",
+            "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+            "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+            "category": "bracelet"
+          },
+          {
+            "id": "14",
+            "name": "Korean Stone & Flower-Earrings",
+            "price": "₹289",
+            "img": "http://localhost:5000/Korean/KoreandifferenttypeStoneEarrings.webp",
+            "description": "Stylish stone and flower combination earrings for modern fashion.",
+            "category": "Korean Earrings"
+          },
+          {
+            "id": "29",
+            "name": "Spring Time Ring",
+            "price": "₹650",
+            "img": "http://localhost:5000/Ring/SpringTimeRing.jpg",
+            "description": "Floral-inspired springtime ring to brighten up your look.",
+            "category": "Rings"
+          }
+        ],
+        "total": 1538,
+        "address": {
+          "name": "kevin",
+          "phone": "987654321`",
+          "street": "pattambi",
+          "city": "pattambi",
+          "pincode": "653421"
+        },
+        "status": "Order Placed",
+        "date": "9/23/2025, 5:22:56 PM"
+      }
+    },
+    {
+      "id": "79d0",
+      "orders": {
+        "id": 1758706376736,
+        "items": [
+          {
+            "id": "21",
+            "name": "Megan Necklace",
+            "price": "₹329",
+            "img": "http://localhost:5000/Necklace/MeganNecklace.jpg",
+            "description": "Trendy Megan-style necklace for a modern and chic look.",
+            "category": "Necklaces"
+          }
+        ],
+        "total": 329,
+        "address": {
+          "name": "arsha Bhai",
+          "phone": "876543219",
+          "street": "sumathi valav",
+          "city": "chittoor",
+          "pincode": "643219"
+        },
+        "status": "Order Placed",
+        "date": "9/24/2025, 3:02:56 PM"
+      }
+    },
+    {
+      "id": "b6ad",
+      "orders": {
+        "id": 1758707095981,
+        "items": [
+          {
+            "id": "28",
+            "name": "Four Stone Ring",
+            "price": "₹799",
+            "img": "http://localhost:5000/Ring/FourStoneRing.webp",
+            "description": "Elegant ring with four sparkling stones for a classy finish.",
+            "category": "Rings"
+          }
+        ],
+        "total": 799,
+        "address": {
+          "name": "arsha Bhai",
+          "phone": "0987654321",
+          "street": "sumathi valav",
+          "city": "chittoor",
+          "pincode": "643219"
+        },
+        "status": "Order Placed",
+        "date": "9/24/2025, 3:14:55 PM"
+      }
+    },
+    {
+      "id": "54d8",
+      "orders": {
+        "id": 1758737561786,
+        "items": [
+          {
+            "id": "2",
+            "name": "Luxury Golden Bracelet",
+            "price": "₹599",
+            "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+            "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+            "category": "bracelet",
+            "status": true
+          }
+        ],
+        "total": 599,
+        "address": {
+          "name": "jthin",
+          "phone": "0987654321",
+          "street": "sumathi valav",
+          "city": "chittoor",
+          "pincode": "643219"
+        },
+        "status": "Order Placed",
+        "date": "9/24/2025, 11:42:41 PM"
+      }
+    },
+    {
+      "id": "4cda",
+      "orders": {
+        "id": 1758737626103,
+        "items": [
+          {
+            "id": "2",
+            "name": "Luxury Golden Bracelet",
+            "price": "₹599",
+            "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+            "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+            "category": "bracelet",
+            "status": true
+          },
+          {
+            "id": "10",
+            "name": "Sahiba Pearl Hoop - Peach Pink",
+            "price": "₹329",
+            "img": "http://localhost:5000/HoopEarring/SahibaPearlHoopEarrings-peachypink.jpg",
+            "description": "Charming peach-pink pearl hoop earrings designed for casual and festive wear.",
+            "category": "Hoop Earrings"
+          },
+          {
+            "id": "18",
+            "name": "Dream Moon Necklace",
+            "price": "₹349",
+            "img": "http://localhost:5000/Necklace/DreamMoonNecklace.jpg",
+            "description": "Elegant moon-inspired necklace with a dreamy charm, perfect for evening wear.",
+            "category": "Necklaces"
+          }
+        ],
+        "total": 1277,
+        "address": {
+          "name": "arsha Bhai",
+          "phone": "876543219",
+          "street": "sumathi valav",
+          "city": "chittoor",
+          "pincode": "643219"
+        },
+        "status": "Order Placed",
+        "date": "9/24/2025, 11:43:46 PM"
+      }
+    },
+    {
+      "id": "14a7",
+      "orders": {
+        "id": 1758738802706,
+        "items": [
+          {
+            "id": "2",
+            "name": "Luxury Golden Bracelet",
+            "price": "₹599",
+            "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+            "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+            "category": "bracelet",
+            "status": true
+          },
+          {
+            "id": "25",
+            "name": "Box Ring",
+            "price": "₹499",
+            "img": "http://localhost:5000/Ring/BoxRing.webp",
+            "description": "A stylish box-shaped ring that adds a bold statement to your fashion.",
+            "category": "Rings"
+          }
+        ],
+        "total": 1098,
+        "address": {
+          "name": "sufi",
+          "phone": "876543219",
+          "street": "vayal",
+          "city": "puthoor",
+          "pincode": "643121"
+        },
+        "status": "Order Placed",
+        "date": "9/25/2025, 12:03:22 AM"
+      }
+    },
+    {
+      "id": "4c15",
+      "orders": {
+        "id": 1758739564837,
+        "items": [
+          {
+            "id": "10",
+            "name": "Sahiba Pearl Hoop - Peach Pink",
+            "price": "₹329",
+            "img": "http://localhost:5000/HoopEarring/SahibaPearlHoopEarrings-peachypink.jpg",
+            "description": "Charming peach-pink pearl hoop earrings designed for casual and festive wear.",
+            "category": "Hoop Earrings"
+          },
+          {
+            "id": "11",
+            "name": "Korean Crystal Flower-Earrings",
+            "price": "₹319",
+            "img": "http://localhost:5000/Korean/KoreanClassyEarring-Golden.webp",
+            "description": "Elegant crystal flower earrings that add a sparkling touch to any outfit.",
+            "category": "Korean Earrings"
+          }
+        ],
+        "total": 648,
+        "address": {
+          "name": "sufi",
+          "phone": "0987654321",
+          "street": "sumathi valav",
+          "city": "chittoor",
+          "pincode": "643219"
+        },
+        "status": "Order Placed",
+        "date": "9/25/2025, 12:16:04 AM"
+      }
+    },
+    {
+      "id": "812f",
+      "orders": {
+        "id": 1758767269605,
+        "items": [
+          {
+            "id": "2",
+            "name": "Luxury Golden Bracelet",
+            "price": "₹599",
+            "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+            "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+            "category": "bracelet",
+            "status": true
+          }
+        ],
+        "total": 599,
+        "address": {
+          "name": "sufi",
+          "phone": "987654321",
+          "street": "sumathi valav",
+          "city": "chittoor",
+          "pincode": "643219"
+        },
+        "status": "Order Placed",
+        "date": "9/25/2025, 7:57:49 AM"
+      }
+    },
+    {
+      "id": "7dbb",
+      "orders": {
+        "id": 1758777081291,
+        "items": [
+          {
+            "id": "2",
+            "name": "Luxury Golden Bracelet",
+            "price": "₹599",
+            "img": "http://localhost:5000/Bracelet/LuxuryGoldenBracelet.webp",
+            "description": "Elegant golden bracelet with a premium finish, ideal for parties and weddings.",
+            "category": "bracelet",
+            "status": true
+          }
+        ],
+        "total": 599,
+        "address": {
+          "name": "arsha ",
+          "phone": "876543219",
+          "street": "sumathi valav",
+          "city": "chittoor",
+          "pincode": "643219"
+        },
+        "status": "Order Placed",
+        "date": "9/25/2025, 10:41:21 AM"
+      }
+    },
+    {
+      "id": "ef94",
+      "orders": {
+        "id": 1758777359159,
+        "items": [
+          {
+            "id": "1",
+            "name": "Combo Bracelet",
+            "price": "₹199",
+            "img": "http://localhost:5000/Bracelet/ComboBracelet.webp",
+            "description": "A stylish combo of modern and traditional designs, perfect for casual wear.",
+            "category": "bracelet"
+          }
+        ],
+        "total": 199,
+        "address": {
+          "name": "Ashin ",
+          "phone": "987654321",
+          "street": "mullambara",
+          "city": "thurakkal",
+          "pincode": "643121"
+        },
+        "status": "Order Placed",
+        "date": "9/25/2025, 10:45:59 AM"
+      }
+    }
+  ],
+  "Admin": [
+    {
+      "adminName": "Admin",
+      "email": "admin@gmail.com",
+      "password": "1234",
+      "role": "admin",
+      "id": "e86d"
+    }
+  ]
+}
