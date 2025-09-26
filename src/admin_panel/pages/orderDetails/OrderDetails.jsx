@@ -1,6 +1,6 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
-import "./Orderdetails.css";
+import "./OrderDetails.css";
 import DashBoard from "../../DashBoard/DashBoard";
 
 function OrderDetails() {
@@ -76,3 +76,4 @@ function OrderDetails() {
 }
 
 export default OrderDetails;
+
